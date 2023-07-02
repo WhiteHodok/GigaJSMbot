@@ -1,0 +1,28 @@
+{
+  "name": "gjsmb",
+  "version": "1.0.0",
+  "description": "Discord Music-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhiteHodok/GigaJSMbot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "WhiteHodok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhiteHodok/GigaJSMbot/issues"
+  },
+  "homepage": "https://github.com/WhiteHodok/GigaJSMbot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "discord.js": "^14.11.0",
+    "ffmpeg-static": "^5.1.0",
+    "ytdl-core": "^4.11.4"
+  }
+}
