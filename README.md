@@ -1,0 +1,2 @@
+# GigaJSMbot
+Discord Music-bot
